@@ -1,0 +1,26 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  position: relative;
+  background: gray;
+}
+
+body div.left {
+  width: 25%;
+  background: red;
+  /* position: absolute; */
+  /* height: 100%; */
+  text-align: center;
+}
+
+body div.left h1 {
+  /* height: 100%; */
+  margin: 0px;
+}
+
+body div.left p {
+  font-size: 40px;
+}
